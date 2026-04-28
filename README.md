@@ -73,7 +73,7 @@ personal-portfolio/
 ## ⚙️ Installation & Setup
 
 ```bash
-git clone https://github.com/Shraddha-1803/FUTURE_FS_01_Portfolio
+git clone https://github.com/Shraddha-1803/Portfolio
 cd Portfolio-website
 ```
 

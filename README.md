@@ -16,7 +16,7 @@ A modern and responsive portfolio website to showcase my projects, skills, and p
 
 ## 🚀 Live Demo
 
-🔗 [https://Shraddha-1803.github.io/Portfolio-website](https://shraddha-1803.github.io/FUTURE_FS_01_Portfolio/)
+🔗 https://shraddha-1803.github.io/Portfolio/
 
 ---
 

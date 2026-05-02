@@ -74,7 +74,7 @@ personal-portfolio/
 
 ```bash
 git clone https://github.com/Shraddha-1803/Portfolio
-cd Portfolio-website
+cd Portfolio
 ```
 
 Then open:
